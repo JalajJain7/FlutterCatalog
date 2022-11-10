@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12 Pro",
+      "desc": "Apple iPhone 12th generation",
+      "price": 999,
+      "color": "#33505a",
+      "image": "https://cdn.shopify.com/s/files/1/0245/9382/5867/products/apple-mobile-phones-apple-iphone-12-pro-128gb-imported-1-year-international-warranty-16090454229067.png?v=1647757693"
+    },
+    {
+      "id": 2,
+      "name": "Pixel 5",
+      "desc": "Google Pixel phone 5th generation",
+      "price": 699,
+      "color": "#00ac51",
+      "image": "https://cometcase.in/wp-content/uploads/2022/04/Google-Pixel-5-Skins-Wraps-Covers.webp"
+    },
+    {
+      "id": 3,
+      "name": "M1 Macbook Air",
+      "desc": "Apple Macbook air with apple silicon",
+      "price": 1099,
+      "color": "#e0bfae",
+      "image": "https://inventstore.in/wp-content/uploads/2020/12/MacBook-Air-3.png"
+    },
+    {
+      "id": 4,
+      "name": "Playstation 5",
+      "desc": "Sony Playstation 5th generation",
+      "price": 500,
+      "color": "#544ee4",
+      "image": "https://p4-ofp.static.pub/ShareResource/brands/sony-playstation/lenovo-sony-new-brand-page-section-1-img.14855478142bb701.png"
+    },
+    {
+      "id": 5,
+      "name": "Airpods Pro",
+      "desc": "Apple Aipods Pro 1st generation",
+      "price": 200,
+      "color": "#e3e4e9",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROEs084z65psoo06zYl5R0tUzywOVKVQZzmzqCj3PDP1vVJTWv3gGwGMFENSy4qV4n7sEQjE&usqp=CAc"
+    },
+    {
+      "id": 6,
+      "name": "iPad Pro",
+      "desc": "Apple iPad Pro 2020 edition",
+      "price": 799,
+      "color": "#f73984",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzUeRQ5uH7E3hpECib8qxdhfHv6SnUGT7mOsew_xiOoqRR7ZpdH-TQ4J6-HuIEfqHimYyPXWH&usqp=CAc"
+    },
+    {
+      "id": 7,
+      "name": "Galaxy S21 Ultra",
+      "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+      "price": 1299,
+      "color": "#1c1c1c",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT_PZcc0wicVYR992s5QCIDLYy8t-z-9kibTUdWZBN2sd86aaqdAJfhvxAwZNWV9wfdzDikpr1&usqp=CAc"
+    },
+    {
+      "id": 8,
+      "name": "Galaxy S21",
+      "desc": "Samsung Galaxy S21 2021 edition",
+      "price": 899,
+      "color": "#7c95eb",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBNHd7FwarbxA1xdMFt24KazjcR4dWPH_t_T5dz4YNK1s7rJAQ8gOIuR_NRw6eeiQgFhbZ9sAN&usqp=CAc"
+    }
+  ]
+}
